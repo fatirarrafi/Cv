@@ -78,6 +78,9 @@ a {
     padding-right: 100px;
 }
 
+#about p {
+    padding-left : 500px; }
+
 #experience {
     padding-top: 250px;
     padding-left: 100px;
